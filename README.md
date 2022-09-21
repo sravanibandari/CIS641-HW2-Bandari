@@ -7,4 +7,4 @@
 ## Technical Background
 I have 3 years of working experience in Software Development.I have hands on experience in programming languages like c#,.Net Framework, .Net Core,Entity Framework and SQL Server.My work includes writing web apis and the procedures , triggers to retrieve data from databases like SQL Server,PostgreSQL.I have knowledge on using Kafka, Bitbucket, Grafana, ELK and XSLT
 
-![This is an Image](https://images.app.goo.gl/yPeeJ5pdBSLLZcRk8)
+![This is an Image](https://i.redd.it/pwobgewmw4p91.jpg)
