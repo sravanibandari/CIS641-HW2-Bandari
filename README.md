@@ -7,8 +7,8 @@
 ## Technical Background
 I have 3 years of working experience in Software Development.I have hands on experience in programming languages like c#,.Net Framework, .Net Core,Entity Framework and SQL Server.My work includes writing web apis and the procedures , triggers to retrieve data from databases like SQL Server,PostgreSQL.I have knowledge on using Kafka, Bitbucket, Grafana, ELK and XSLT
 
-## A link to team's github.io page
-![This is link to project github.io page](https://sravanibandari.github.io/GVSU-CIS641-Slytherin/)
+## A link to project github.io page
+[Project](https://sravanibandari.github.io/GVSU-CIS641-Slytherin/)
 
-## Project Description
-The project is an e-commerce website.Where we tend to display all available items to purchase.We can add items to cart or wishlit and then place an order.
+## Term Project Description
+The project is an e-commerce website called "E Shop".Where we tend to display all available items which are ready in stock and ready to purchase.We can add items to cart or wishlit, place an order,search based on different categories.
