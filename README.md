@@ -11,4 +11,4 @@ I have 3 years of working experience in Software Development.I have hands on exp
 [Project](https://sravanibandari.github.io/GVSU-CIS641-Slytherin/)
 
 ## Term Project Description
-The project is an e-commerce shopping website.There will be a search, based on different categories of products ,where we tend to display all available items which are ready in stock and ready to purchase.We can add items to cart or wishlit, place an order,search based on different categories.
+The project is an e-commerce shopping website.There will be a search, based on different categories of products ,where we tend to display all available items which are ready in stock and ready to purchase.We can add items to cart or wishlit, place an order,search based on different categories.This website is tend to be a user friendly.
